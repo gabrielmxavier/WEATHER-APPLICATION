@@ -12,3 +12,8 @@ You can get you API KEY on [OpenWeather WebSite](https://openweathermap.org/)
 You going to find to different https on the JavaScript code. One is based on the GeoLocation so if you prefer to use the GeoLocation make sure to give the permition to the browser get your location. 
 
 The city setted on JavaScript code is Rio de Janeiro, you can change the city on line 36.
+
+## OverView
+
+![Weather application view](https://github.com/gabrielmxavier/WEATHER-APPLICATION/blob/master/App%20view.jpg)
+
