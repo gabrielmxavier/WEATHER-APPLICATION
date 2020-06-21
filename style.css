@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    background-image: linear-gradient(250.6deg, rgba(0, 0, 0, 0.75) 5.69%, rgba(0, 0, 0, 0.5325) 23.05%, rgba(0, 0, 0, 0.36) 44.86%, rgba(0, 0, 0, 0.255) 62.24%, rgba(0, 0, 0, 0.06) 81.33%, rgba(0, 0, 0, 0) 96.43%), url(/agustin-diaz-7F65HDP0-E0-unsplash.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.global {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding: 90px;
+    width: 100%;
+    background-color: transparent;
+}
+
+.main {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 90%;
+}
+
+.icon {
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.295);
+    box-shadow: 4px 4px 9px rgb(0, 0, 0),
+                -4px -4px 9px rgba(59, 59, 59, 0.801);
+    border-radius: 8px;
+}
+
+.clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.image {
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.123);
+    margin-top: 15px;
+    padding: 10px;
+}
+
+/****************************************************/
+/**************General Set Up********************/
+/****************************************************/
+
+
+img {
+    height: 20px;
+    margin-top: 2px;
+    width: auto;
+}
+
+.city h1 {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    font-family: 'Monoton', cursive;
+    font-weight: 300;
+}
+
+.city p {
+    color: white;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    position: relative;
+    float: right;
+}
+
+.icon .iconify {
+    color: white;
+    font-size: 50px;
+    margin-right: 20px;
+}
+
+
+.icon p {
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.descDay,
+.temperatureDay {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.clock .icon-div img {
+    height: 150px;
+    width: auto;
+    margin: -25px;
+}
+
+.timer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hour {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.sun {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sun-temp {
+    font-size: 25px;
+    font-weight: 300;
+    margin: 20px 20px 0px 0px;
+}
+
+
+
