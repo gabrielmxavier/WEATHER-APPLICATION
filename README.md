@@ -13,5 +13,5 @@ You are going to find two different https on the JavaScript code. One is based o
 
 ## OverView
 
-![Weather application view](https://github.com/gabrielmxavier/WEATHER-APPLICATION/blob/master/App%20view.jpg)
+![Weather application view](https://github.com/gabrielmxavier/WEATHER-APPLICATION/blob/master/app%20overview.jpg)
 
