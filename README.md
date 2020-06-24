@@ -11,7 +11,7 @@ You can get your API KEY and the API documentation on [OpenWeather WebSite](http
 
 ## City or GeoLocation
 
-Make sure to give the permission to the browser get yor location because One of the request api is based on the GeoLocation and the other one is set according to a City name you are going to type.
+Make sure to give the permission to the browser get your location because One of the API request is based on the GeoLocation and the other one is set according to a City name you are going to type.
 
 ## OverView
 
