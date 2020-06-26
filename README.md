@@ -2,7 +2,7 @@
 A JavaScript Weather Forecast application that use OpenWeather API.
 
 ## Try the appplication here
-[GlobalWeather](https://gabrielmxavier.github.io/WEATHER-APPLICATION/)
+[GlobalWeather](https://gabrielmxavier.github.io/WEATHER-APPLICATION/) 
 
 ## Getting the API KEY
 
